@@ -3,7 +3,7 @@
   overflow: hidden;
   background-color: #333;
   font-family: Arial;
-  position: fixed;
+  position: relative;
   z-index: 1;
 
 }
